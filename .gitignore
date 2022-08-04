@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 yolov5/
 datasets/*/labels.cache
+training_test/
