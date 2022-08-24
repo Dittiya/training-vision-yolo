@@ -2,3 +2,4 @@
 yolov5/
 datasets/*/labels.cache
 training_test/
+datasets/temp
